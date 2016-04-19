@@ -1,9 +1,11 @@
 # framework
 /ext
 
-# cordova (auto generated)
+# cordova (auto generated / downloaded files)
+/cordova/plugins/*
 /cordova/platforms
 /cordova/www
+!/cordova/plugins/*.json
 
 # manifest
 /*.json
