@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbe50d1f-23ae-462c-83ab-72701571f90e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/NOTICE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/RELEASENOTES.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/de/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/es/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/fr/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/it/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/ja/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/ko/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/pl/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/doc/zh/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/src/android/WhitelistPlugin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cordova/plugins/cordova-plugin-whitelist/whitelist.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/example/bootstrap.json" afterPath="$PROJECT_DIR$/sass/example/bootstrap.json" />
-    </list>
+    <list default="true" id="bbe50d1f-23ae-462c-83ab-72701571f90e" name="Default" comment="" />
     <ignored path="SenchaCordovaTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -194,38 +173,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SenchaCordovaTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SenchaCordovaTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SenchaCordovaTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cordova" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SenchaCordovaTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SenchaCordovaTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cordova" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
