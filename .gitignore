@@ -1,0 +1,18 @@
+# framework
+/ext
+
+# cordova (auto generated)
+/cordova/platforms
+/cordova/www
+
+# manifest
+/*.json
+!/app.json
+!/workspace.json
+
+# bootstrap
+/bootstrap.js
+/bootstrap.css
+
+# builds
+/build
