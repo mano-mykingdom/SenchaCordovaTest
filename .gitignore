@@ -5,10 +5,9 @@
 /ext
 
 # cordova (auto generated / downloaded files)
-/cordova/plugins/*
+/cordova/plugins
 /cordova/platforms
 /cordova/www
-!/cordova/plugins/*.json
 
 # manifest
 /*.json
